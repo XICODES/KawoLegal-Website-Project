@@ -1,0 +1,54 @@
+header#landing {
+    background:linear-gradient(rgb(49, 29, 30),rgb(49, 29, 30)), url('/images/b.jpg');
+    background-blend-mode: overlay;
+   
+    height: 740px;
+  }
+  .navbar-mg li {
+    margin-right: 30px;
+  }
+  a.nav-color {
+    color: #e64648 !important;
+    font-weight: 700;
+  }
+  .navbar-bg {
+    background: rgb(94, 27, 30);
+  }
+  /* header content */
+  .header-content {
+    max-width: 500px;
+    margin: 150px auto;
+    color: #fff;
+    text-align: center;
+  }
+  .header-content h1 {
+    font-size: 60px;
+    font-weight: 100;
+    text-transform: uppercase;
+  }
+  .header-content p,
+  .header-content .btn-bold {
+    font-weight: 700;
+  }
+  ​
+  .active {
+    border: 2px solid;
+    padding: 0.1rem 0.8rem;
+    color: #e64648;
+  }
+  ​
+  /* footer */
+  .row footer p-3{
+    background: rgb(94, 27, 30);
+    text-align: center;
+    color: #fff;
+  }
+  .footer-icons a {
+    color: #fff;
+  }
+  .footer-icons{
+    color: #1d1753;
+    margin: 0 13px;
+    cursor: pointer;
+    padding: 18px 0;
+}
